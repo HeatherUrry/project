@@ -58,11 +58,3 @@ inflation %>%
   theme(legend.position = c(.1, .9)) +
   NULL
 ```
-
-```{python}
-print("Hello World! Python here, do you miss R already?")
-```
-
-# use a function without loading the package:
-# package::function
-
